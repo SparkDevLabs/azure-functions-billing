@@ -1,4 +1,4 @@
-# Azure Functions v2 with .NET Core
+# Azure Functions v2 with .NET Core - test 
 
 This example shows simplified billing system in serverless architecture.
 
